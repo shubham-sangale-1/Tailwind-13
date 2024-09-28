@@ -1,0 +1,22 @@
+main {
+  background-image: url("https://img.freepik.com/premium-photo/minimal-geometric-background-copy-space_1179130-412585.jpg?ga=GA1.1.220584239.1725994828&semt=ais_hybrid");
+  background-color: red;
+  height: 80vh;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: flex;
+  /* justify-content: center; */
+}
+main div {
+  padding: 50px;
+}
+section {
+  height: 100vh;
+  display: flex;
+}
+section div {
+  padding: 50px;
+}
+ul {
+  list-style-type: none;
+}
